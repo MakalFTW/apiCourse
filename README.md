@@ -1,2 +1,2 @@
 # apuCourse
-Api Course at TestDevLab
+API Course at TestDevLab
